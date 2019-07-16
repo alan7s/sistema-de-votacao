@@ -1,2 +1,2 @@
 # sistema-de-votacao
-Sistema de votação online com raking
+Sistema de votação online com ranking
